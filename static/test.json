@@ -1,0 +1,114 @@
+[
+  {
+    "Source": {
+      "Head": {
+        "BillNo": "1704280010177",
+        "BillNo_old": "SH-P085-17063(2)",
+        "BillID": 26095017,
+        "CreatTime": "2017-04-28T00:00:00",
+        "RunTime": "2017-04-28T00:00:00",
+        "Quantity_Type": 3,
+        "Quantity": 0,
+        "Amount_YS": 0,
+        "Amount_SS": 0,
+        "ShopNo": "960",
+        "PosNo": "0",
+        "State": 3,
+        "TransferNO": "28403",
+        "Flag": 1,
+        "ShopID": 511960
+      },
+      "Details": [
+        {
+          "BillNo": "1704280010177",
+          "RowNo": 1,
+          "ID": 78739,
+          "JCNo": "50419340",
+          "SRNo": "63095285",
+          "Name": "26N3 LA MER THE LIFTING INTENSIFIER SOLO",
+          "Quantity": 30,
+          "Price": 101.7,
+          "Amount": 3051
+        },
+        {
+          "BillNo": "1704280010177",
+          "RowNo": 2,
+          "ID": 139120,
+          "JCNo": "50883882",
+          "SRNo": "60001866",
+          "Name": "0JW0 ORIGINS Make A Difference Plus+ Rej",
+          "Quantity": 384,
+          "Price": 13,
+          "Amount": 4992
+        },
+        {
+          "BillNo": "1704280010177",
+          "RowNo": 3,
+          "ID": 209606,
+          "JCNo": "51368326",
+          "SRNo": "60009566",
+          "Name": "0MW7 ORIGINS POWERFUL LIFTING OVERNIGHT ",
+          "Quantity": 12,
+          "Price": 29.4,
+          "Amount": 352.8
+        }
+      ],
+      "QuantitySequances": ["12", "30", "384"],
+      "QuantitySequancesText": "12,30,384"
+    },
+    "Target": {
+      "Head": {
+        "WBOOK_NO": "W164K004201704276243",
+        "COP_EMS_NO": "W4K00201704274040",
+        "WBOOK_TYPE": "WBOOK_HAND",
+        "CONTR_NO": "SH-P085-17063(2)",
+        "BILL_NO": "11240663781",
+        "I_E_DATE": "20170427",
+        "D_DATE": "20170427",
+        "PRE_ENTRY_ID": "221620171000020503",
+        "ACTION_DIR": "+",
+        "IMPORT_TIME": "20170427164456",
+        "NOTE_S": "WBOOK报关单自动比对结果:比对相符",
+        "REPLY_TIME": "20170427164611",
+        "STATUS": "P17"
+      },
+      "Details": [
+        {
+          "WBOOK_NO": "W164K004201704276243",
+          "COP_G_NO": "78739",
+          "G_NO": "1",
+          "G_NAME": "以体积计的护肤品",
+          "G_QTY": 30,
+          "QTY_1": 0.45
+        },
+        {
+          "WBOOK_NO": "W164K004201704276243",
+          "COP_G_NO": "139120",
+          "G_NO": "2",
+          "G_NAME": "以体积计的护肤品",
+          "G_QTY": 384,
+          "QTY_1": 57.6
+        },
+        {
+          "WBOOK_NO": "W164K004201704276243",
+          "COP_G_NO": "209606",
+          "G_NO": "3",
+          "G_NAME": "以体积计的护肤品",
+          "G_QTY": 12,
+          "QTY_1": 0.9
+        },
+        {
+          "WBOOK_NO": "W164K004201704276243",
+          "COP_G_NO": "9030",
+          "G_NO": "4",
+          "G_NAME": "化妆品（赠品及试用装）",
+          "G_QTY": 1125,
+          "QTY_1": 11.25
+        }
+      ],
+      "QuantitySequances": ["12", "30", "384", "1125"],
+      "QuantitySequancesText": "12,30,384,1125"
+    },
+    "Similarity": 0.75
+  }
+]
